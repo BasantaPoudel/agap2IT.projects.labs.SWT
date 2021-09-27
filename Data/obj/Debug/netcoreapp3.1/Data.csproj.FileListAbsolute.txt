@@ -1,0 +1,13 @@
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\SWT\Data\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.deps.json
+C:\Users\User01\source\repos\SWT\Data\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.dll
+C:\Users\User01\source\repos\SWT\Data\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.pdb
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.dll
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.pdb
+C:\Users\User01\source\repos\SWT\Data\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.runtimeconfig.json
+C:\Users\User01\source\repos\SWT\Data\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.runtimeconfig.dev.json
+C:\Users\User01\source\repos\SWT\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Business.deps.json
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Business.dll
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Business.pdb
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.dll
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.dll
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.pdb
+C:\Users\User01\source\repos\SWT\Business\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.pdb
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Business.dll
+C:\Users\User01\source\repos\SWT\Business\obj\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Business.pdb

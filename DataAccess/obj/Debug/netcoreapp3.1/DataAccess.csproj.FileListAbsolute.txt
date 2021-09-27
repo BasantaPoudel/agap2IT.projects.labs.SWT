@@ -1,0 +1,13 @@
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\SWT\DataAccess\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.deps.json
+C:\Users\User01\source\repos\SWT\DataAccess\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.dll
+C:\Users\User01\source\repos\SWT\DataAccess\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.pdb
+C:\Users\User01\source\repos\SWT\DataAccess\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.dll
+C:\Users\User01\source\repos\SWT\DataAccess\bin\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.Data.pdb
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.dll
+C:\Users\User01\source\repos\SWT\DataAccess\obj\Debug\netcoreapp3.1\agap2it.projects.labs.SWT.DataAccess.pdb
